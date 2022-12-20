@@ -1,2 +1,7 @@
 # JavaScript
-Repository for leaning JavaScript.
+- 참여 인원 : 
+- 스터디 기간 : 
+- 스터디 내용 : 
+- 스터디 방식 : 
+- 스터디 규칙 : 
+- 스터디 레퍼런스 : 
